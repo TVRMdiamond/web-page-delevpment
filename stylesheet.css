@@ -1,0 +1,132 @@
+body {
+	background-color: #ffffff;
+	text-align: center;
+}
+
+.rubik- fonts * {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+}
+
+h1 {
+	font-family: 'times new roman', arial, sans-serif;
+	text-align: left;	
+}
+/*david*/
+#david{
+	float: left;
+	text-align: left;
+	text-transform: uppercase;
+	width: 60%;
+	padding-bottom:1em;
+	
+}
+#davidimg{
+	width: 210px;
+	padding-bottom: 2em;
+}
+/*jordan*/
+#jordan{
+	float: left;
+	text-align: left;
+	text-transform: uppercase;
+	width: 60%;
+	
+}
+#jordanimg{
+	width: 170px;
+	float: right;
+	height: 170px;
+}
+/*manasi*/
+#manasi{
+	float: left;
+	text-align: left;
+	text-transform: uppercase;
+	width: 70%;
+	padding-bottom: 2em ;
+	
+}
+
+#manasiimg{
+	width: 170px
+	
+}
+/*mira*/
+#mira{
+	float: left;
+	text-align: left;
+	text-transform: uppercase;
+	width: 70%;
+	padding-bottom: 2em;
+}
+#miracar{
+	width: 170px;
+	float: right; 
+}
+p * {
+	color: #000000;
+	font-size: 12pt;
+	text-align: left;
+	
+}
+
+.home{
+	float: left;
+}
+
+.floatright {
+    right: 0%;
+    float: right;
+    text-align: left;
+	
+}
+
+
+nav#navmain {
+	width: 93%;
+	background-color: #ddcd84;
+	color: #000000;
+	text-align: left;
+	letter-spacing: .5em;
+	font-weight: 700;
+
+	padding: 3em;
+	border-radius: 20px;
+
+}
+
+nav#navmain a {
+	color: #000000;
+	text-decoration: none;
+	
+}
+
+nav#navmain a:hover {
+	text-decoration: underline;
+}
+
+nav #murray{
+	width: 71px;
+	float: right;
+	height: 40px;
+
+}
+
+footer {
+
+	position: fixed;
+
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #d3c589;
+	color: #000000;
+	text-align: left;
+	letter-spacing: .2em;
+	font-weight: 700;
+	padding: 1em;
+	border-radius: 5px;
+}
